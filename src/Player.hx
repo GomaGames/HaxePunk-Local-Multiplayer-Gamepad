@@ -14,15 +14,7 @@ class Player extends Entity
 
   // shape colors
   private static var PLAYER_COLORS:Array<Int> = [ 0x3399FF, 0x33FF66, 0xFF6633, 0x33FFFF ];
-
-  // strict static input labels, (optional, you could just use literal strings)
-  private static var INPUTS:{ LEFT:String, RIGHT:String, UP:String, DOWN:String} = {
-    LEFT : "LEFT",
-    RIGHT : "RIGHT",
-    UP : "UP",
-    DOWN : "DOWN"
-  };
-
+  
   /*
     The Image object for player
    */
