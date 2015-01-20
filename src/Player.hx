@@ -111,7 +111,7 @@ class Player extends Entity
   }
 
   /**
-   * Checks if keyboard input is triggered
+   * Checks for gamepad input
    */
   private inline function handleInput()
   {
