@@ -18,11 +18,11 @@ This assumes a usb XBOX style gamepad, though other input configurations can be 
 - [Touch](http://haxepunk.com/documentation/api/com/haxepunk/utils/Touch.html)
 
 
-[see video](http://gfycat.com/GargantuanDelectableCarp)  
-![gamepad control 1](http://fat.gfycat.com/GargantuanDelectableCarp.gif)
-
 [see video](http://gfycat.com/SoggyNaiveCrownofthornsstarfish)  
-![gamepad control 2](http://fat.gfycat.com/SoggyNaiveCrownofthornsstarfish.gif)
+![gamepad 3](http://fat.gfycat.com/SoggyNaiveCrownofthornsstarfish.gif)
+
+[see video](http://gfycat.com/DefinitiveScratchyBluefintuna)  
+![gamepad 4](http://fat.gfycat.com/DefinitiveScratchyBluefintuna.gif)
 
 Plug in one or more usb gamepads.  
 Test this proof of concept.
